@@ -1,0 +1,1 @@
+([('main', '/Users/gerard/Github/url-decoder/dist/main', 'EXECUTABLE')],)
